@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="player">
+    <Position X="10.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="player::__unnamed_enum_028f_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>player.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAQABAAAAAAAAAAAAABAAAEAAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsnakeDlg">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CsnakeDlg::__unnamed_enum_0005_1">
+        <TypeIdentifier>
+          <NewMemberFileName>snakeDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAGAAAEAAAAAAAAAABAAQAAAAAAAAAQAAAQAAAAQAAA=</HashCode>
+      <FileName>snakeDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsnakeApp">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SNAKE">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>snakeDlg.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MOVEENUM">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>snakeDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

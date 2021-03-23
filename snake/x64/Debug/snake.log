@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  player.cpp
+  snake.cpp
+  snakeDlg.cpp
+d:\程序作业\snake\snake\snakedlg.cpp(218): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  snake.vcxproj -> D:\程序作业\snake\x64\Debug\snake.exe
